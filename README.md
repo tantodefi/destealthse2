@@ -6,7 +6,7 @@ original vite repo: https://github.com/tantodefi/DeezStealth/tree/main
 
 hardhat repo: https://github.com/tantodefi/destealth
 
-This repo is open to all contributions form the BuidlGuidl Newbies Lounge. The idea is for people to learn se2 repo structure by taking react elements from the vite + hardhat repos and refactoring them into nextjs/se2.
+This repo is open to all contributions form the BuidlGuidl Newbies Lounge. The idea is for people to learn se2 repo structure by taking react elements from the vite + solidity from the hardhat repos and refactoring them into nextjs/se2 monorepo.
 
 BG newbies lounge: https://t.me/BGNewbiesLounge
 
