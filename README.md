@@ -1,3 +1,15 @@
+#  🥷 DeStealth
+
+This is a rewrite/refactor of a hackathon project using se2
+
+original vite repo: https://github.com/tantodefi/DeezStealth/tree/main
+
+hardhat repo: https://github.com/tantodefi/destealth
+
+This repo is open to all contributions form the BuidlGuidl Newbies Lounge. The idea is for people to learn se2 repo structure by taking react elements from the vite + hardhat repos and refactoring them into nextjs/se2.
+
+BG newbies lounge: https://t.me/BGNewbiesLounge
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
